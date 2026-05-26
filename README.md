@@ -18,5 +18,8 @@
 - Các hành động của Agent sẽ được ghi lại trong Logs.
 - Bàn cờ hiện tại đang là tạo ngẫu nhiên nên có thể xảy ra việc không tìm được đường đi, ấn "Trạng thái mới" để đổi bàn cờ.
 - Ấn quay lại ban đầu để có thể sử dụng lại bàn cờ ban đầu để chạy thuật toán khác (so sánh hoạt động giữa các thuật toán)
+
+## Hướng dẫn
+[DEMO](video/demo.gif)
   
 
