@@ -1,8 +1,13 @@
 # BÀI TẬP VỀ NHÀ TRÍ TUỆ NHÂN TẠO
-## CÁCH SỬ DỤNG
-- Mỗi bài tập về nhà là một file ipynb hoặc folder.
-- Vào file và ấn run all.
-- Nếu bài tập là folder (cần chạy tuần tự) thì sẽ có README riêng của folder đó.
+## Chủ đề bài tập
+- Các thuật toán tìm kiếm: Có thông tin và không có thông tin.
+  + Có thông tin: BFS, DFS, IDS, ...
+  + Không có thông tin: Greedy,...
 
-1. mayhutbui.ipynb -> chỉ cần run
-2. 8puzzle_algo.ipynb -> chỉ cần run 
+## Cách sử dụng
+- Mỗi bài tập được thực hiện trong file ipynb.
+- Có thể nhiều bài tập gộp chung trong 1 file.
+- Khi sử dụng, hãy nhấn "Run All" để có thể tải thư viện và chạy code.
+
+## Giao diện
+
